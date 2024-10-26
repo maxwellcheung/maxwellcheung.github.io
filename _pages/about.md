@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student at [SJTU](https://www.sjtu.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interests include machine learning and protein design
+I'm a third year PhD student at [SJTU](https://www.sjtu.edu.cn/). My research interests include machine learning and protein design
 
